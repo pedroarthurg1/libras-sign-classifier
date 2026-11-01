@@ -113,4 +113,4 @@ Landmark detection by [MediaPipe](https://developers.google.com/mediapipe).
 
 ## License
 
-MIT
+To be defined withe the team
