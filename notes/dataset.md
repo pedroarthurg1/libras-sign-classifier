@@ -22,3 +22,10 @@ Topico 2:
 
 Cada mao tem dois grupo Left e Right e cada mao recebe um indice , a primeira 0 e  a segunda 1. Problema > no video do projeto libras a mao estao se "teletransportando" em alguns frames aparece como 0 e alguns como 1. Correçao no extrator
 
+Separado por virgula
+
+422 colunas. Frame e timestamp.
+
+Ponto.
+
+Nao tem no arquivo.
